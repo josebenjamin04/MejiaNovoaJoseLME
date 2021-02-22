@@ -1,0 +1,82 @@
+.body{
+    
+}
+nav span a{
+	background-color:cadetblue;
+	border-right: 1px solid;
+	color: black;
+	font-size: 0.6rem;
+	float: right;
+	padding: 20px;
+	text-decoration: underline;
+}
+nav span a:hover{
+	background-color: #B2DFDB
+}
+a[href="https://www.google.com/"] {
+  background-color: #9E9E9E;
+}
+h1{
+    text-align: center;
+    font-family: 'RocknRoll One', sans-serif;
+}
+#titulo  {
+    margin-right: 75%;
+    margin-left: 5%;
+    background-color: rgb(169, 169, 169);
+}
+#solido{
+    margin-left: 40%;
+    margin-right: 35%;
+    margin-top: -25% ;
+}
+#liquido{
+    margin-left: 70%;
+    margin-top: -12%;
+}
+#gaseoso{
+    margin-left: 40%;
+    margin-right: 35%;
+    margin-top: 10%;
+}
+#plasma{
+    margin-left: 70%;
+    margin-top: -14%; 
+}
+h3{
+    margin-top: -9%;
+    color: white;
+    font-size: 28px;
+    opacity: 50%;
+    text-align: center;
+    font-family: 'Akaya Kanadaka', cursive;
+}
+img{
+    border-radius: 5px;
+}
+.tex2{
+    margin-top: -35%;
+}
+.tex4{
+    margin-top: -35%; 
+}
+.tex1:hover{
+    opacity: 100%;
+}
+.tex2:hover{
+    opacity: 100%;
+}
+.tex3:hover{
+    opacity: 100%;
+}
+.tex4:hover{
+    opacity: 100%;
+}
+footer{
+	background-color: black;
+	color: white;
+	font-size: 0.7rem;
+	margin-top: 20px;
+	padding: 5px;
+	text-align: center;
+}
